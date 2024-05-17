@@ -1,1 +1,4 @@
-# notes
+# NOTES
+
+
+[Scrum](./scrum/scrum.MD)
